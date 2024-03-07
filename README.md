@@ -24,18 +24,25 @@
 
 ### Задание 1
 
-![Скрин кастомного шаблона](https://github.com/chelike1/smon_hw03/tree/main/img/templateszadanie1.png)
+Создайте свой шаблон, в котором будут элементы данных, мониторящие загрузку CPU и RAM хоста.
+
+![Скрин кастомного шаблона](https://github.com/chelike1/smon_hw03/blob/main/img/templateszadanie1.png)
 
 ---
 
 ### Задание 2-3
 
+Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
+Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
+
 По скольку в шаблоне Linux by Zabbix Agent присутствовал Item, который также был в созданном мной шаблоне, я удалил его, чтобы убрать конфликт при добавлении шаблонов к хосту.
 
-![Скрин хостов с прикрепленными шаблонами](https://github.com/chelike1/smon_hw03/tree/main/img/hoststemplates.png)
+![Скрин хостов с прикрепленными шаблонами](https://github.com/chelike1/smon_hw03/blob/main/img/hoststemplates.png)
 
 ---
 
 ### Задание 4
 
-![Скрин кастомного дашборда](https://github.com/chelike1/smon_hw03/tree/main/img/customdashboard.png)
+Создайте свой кастомный дашборд.
+
+![Скрин кастомного дашборда](https://github.com/chelike1/smon_hw03/blob/main/img/customdashboard.png)
